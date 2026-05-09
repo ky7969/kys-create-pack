@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "3937618f06648f5ad0c7be0195b5fa75bf6d7464ee133bd59bb5b13753090de7"
+hash = "18efbc3a85c50654ac19ff54d4a46c408a2e99b606e05745681fc988c2ba875f"
 metafile = true
 
 [[files]]
@@ -486,11 +486,6 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "e717bb275a54a5caadaa7cf82bc34df3589f49402074adf93c31eaac43860313"
-metafile = true
-
-[[files]]
-file = "mods/ftbchunksaerospace.pw.toml"
-hash = "2001df493febbb65b823cc435da6707d2883592024283a546a3b3642109a7dd4"
 metafile = true
 
 [[files]]
