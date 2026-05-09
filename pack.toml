@@ -1,0 +1,13 @@
+name = "Ky's Create Server Pack"
+author = "ky7969"
+version = "1.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e9517fa400b6c1d16573ed2a0bd326d66625591c6ab488a08517262b22e19ff5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
