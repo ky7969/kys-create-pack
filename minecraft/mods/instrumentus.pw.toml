@@ -1,0 +1,13 @@
+name = "Instrumentus"
+filename = "instrumentus-1.21.1-2.8.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZSHoSQwH/versions/JjcAQCwY/instrumentus-1.21.1-2.8.9.jar"
+hash-format = "sha512"
+hash = "c469a9fc9afcf8994d139781cc1859f811e522deb58b5e6a602a502163448b50cc0a202e961bf2800babdec17e20d704afc22b68cea578d3705fd1b8b445dad7"
+
+[update]
+[update.modrinth]
+mod-id = "ZSHoSQwH"
+version = "JjcAQCwY"
