@@ -5,8 +5,24 @@ file = "config/betterf3.toml"
 hash = "a91518e59a45ed4617835aa090061c9860dce1aea9121d83a7e4f2677b96ba23"
 
 [[files]]
+file = "config/blueprint-client.toml"
+hash = "495e1edd4be4950058608ecddddcfc30981bee118ca35995b9027e85c1c7dfe1"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "a59ba702fe2ebe52da83222032cb62d1e82aca616c95660f19bfbe57a5229099"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "808034242762af3abaa3eac12677cef11b5ed3a6cfac62a91a197da64f027a86"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "b5db8639bab3028c93d5d4628dbe6781eb06953fde95ea0cd3fa5fc88e9c9239"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "71dfbf50ea136ac2ce47ff8dea373827fded7dea9c31239efc2a7c2412eeaa6f"
 
 [[files]]
 file = "config/instrumentus-common.toml"
