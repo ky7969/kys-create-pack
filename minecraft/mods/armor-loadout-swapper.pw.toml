@@ -1,0 +1,13 @@
+name = "Armor Loadout Swapper"
+filename = "armorswapper-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hgvP3iRJ/versions/w0laWqWc/armorswapper-1.2.0.jar"
+hash-format = "sha512"
+hash = "16d2e1aea02211509849d2768285b55ac6225ec8157c8ece1a9869ee5787c55edb71cb6ec802bfa5732e48462b299047274e3987988b82da669f26b2d7634edf"
+
+[update]
+[update.modrinth]
+mod-id = "hgvP3iRJ"
+version = "w0laWqWc"

@@ -104,6 +104,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/armor-loadout-swapper.pw.toml"
+hash = "ff2c672c905f9455ce5b9e219f8f1a4576d84427bbf2b94c25d5d0f210a75abc"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
