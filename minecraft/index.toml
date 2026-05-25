@@ -414,6 +414,11 @@ hash = "c179710a5c20de4ffd90f1a23d786270e01dd9a060a920310decd4245e119f9f"
 metafile = true
 
 [[files]]
+file = "mods/create-schematic-upload.pw.toml"
+hash = "c8e3fcd7c15686f0dee458b44de4b1391500ac98e955cc74c4965a6f9a350fe9"
+metafile = true
+
+[[files]]
 file = "mods/create-shuffle-filter.pw.toml"
 hash = "0e2648eb1a0918fa430fecfdc6cfb9508f2fb28714ff51e27dffdbddcec31614"
 metafile = true
