@@ -1,12 +1,12 @@
 name = "Ky's Create Server Pack"
 author = "ky7969"
-version = "1.3"
+version = "1.31"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f40b58d23c927d58d382e65d49a1d23a93071a8fb76f4cc9574caed4715935ea"
+hash = "52f3b1745af690058cab81e359c3977dbed52712ab30c2325af0ec05451f4cd3"
 
 [versions]
 minecraft = "1.21.1"
