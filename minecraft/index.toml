@@ -774,6 +774,16 @@ hash = "64f826e3ca9c1a6fb788d4f3396d2475f5e8c0b7a3c8397c74b80559ab459790"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
 file = "mods/living-things.pw.toml"
 hash = "2731180e4a718e4613f11268b93e34915b58faa1233eda439247f9a23f91eaf8"
 metafile = true
@@ -1006,6 +1016,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "aa9c0153e1c999afee554d19e5b61941de484d82e463e829a53d82176f91960d"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
