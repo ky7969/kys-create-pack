@@ -49,6 +49,11 @@ file = "config/travelersbackpack-server.toml"
 hash = "e62e08cba6a7157e36b85788336856d4f7d00bd01986010d42f3a398be024bc4"
 
 [[files]]
+file = "kubejs/server_scripts/main.pw.toml"
+hash = "12f035155323ac6815e86ed94fa1858f2047ffcbffb0120c84f6cfd6117a7982"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
