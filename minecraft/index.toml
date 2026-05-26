@@ -649,6 +649,11 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "b3e2786cd6d151651aa8ddc6548bc8e8bb7f67a10884f9570608ea11fc1197f6"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "f9b1fbbb47ce9eb83e43037c6bce1a49167743094feeef1e4c941e9252a1131d"
 metafile = true
@@ -806,6 +811,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
+metafile = true
+
+[[files]]
+file = "mods/luggage.pw.toml"
+hash = "89b5e04e7de5f713c2a18851545af2743494dcc0f5cf21a622d654a11e556092"
 metafile = true
 
 [[files]]
