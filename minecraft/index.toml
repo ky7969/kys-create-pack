@@ -804,6 +804,11 @@ hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-delight.pw.toml"
+hash = "631adbbd5fb0115ae38f113b75d940c971cf2779c6dbd0cefa33aa9a60028a88"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
 metafile = true
