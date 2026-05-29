@@ -8,4 +8,4 @@ url = "https://ky7969.github.io/kys-create-pack/kubejs/server_scripts/main.js"
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "86b94500129eb451a416c6c44ee2d51d8dcb387db0d8de695fe50477355178eb"
+hash = "d03f5b96648cfdd61481c76d393a08bd37187ca39fff641b2dfc6e258e35f899"
