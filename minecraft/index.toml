@@ -1214,11 +1214,6 @@ hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
-file = "mods/wooden-hopper.pw.toml"
-hash = "c094a009dcc888c055b6f1f2db6b71329f044c5b3ed0940f4264dc71fcff7795"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
