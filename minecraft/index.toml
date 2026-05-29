@@ -50,7 +50,7 @@ hash = "e62e08cba6a7157e36b85788336856d4f7d00bd01986010d42f3a398be024bc4"
 
 [[files]]
 file = "kubejs/server_scripts/main.pw.toml"
-hash = "9b39e6bbcc2660216f1707fae04db0a59320df1186bd3608eb7cb13d200e8872"
+hash = "31eae2fc06a0d3ba8747b5b9d4f17cc7311dcd58f446759d88232ed0ada84a6d"
 metafile = true
 
 [[files]]
